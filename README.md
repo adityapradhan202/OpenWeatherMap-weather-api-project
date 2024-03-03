@@ -9,5 +9,5 @@
 3. API key, along with latitude and longitude will be needed as parameters for the API endpoint.
 4. Response can be converted in json, xml etc.
 
-#### Disclaimer:
+Note:  
 Right now I am just a beginner. I don't know much about APIs. But soon I will become better. I am learning more about APIs, and soon I am going to do good API projects.
